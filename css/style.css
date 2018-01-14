@@ -1,0 +1,24 @@
+body {
+  background-color: lightgrey;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.parallax-container {
+  height: 300px;
+}
+
+div.fixed-action-btn.horizontal.click-to-toggle {
+  position: absolute;
+  top: 2%;
+  right: 2%;
+}
+ {
+
+}
+p {
+  font-size: 2em;
+}
+div.section, a.waves-effect.waves-light.btn.signup, a.waves-effect.waves-light.btn.login {
+  background-color: #e35141;
+  color: black;
+}
